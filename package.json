@@ -1,0 +1,16 @@
+{
+  "name": "onchain-whitelist-manager",
+  "version": "1.0.0",
+  "description": "Merkle Tree whitelist implementation for Ethereum",
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.3.11"
+  },
+  "keywords": [
+    "merkle-tree",
+    "whitelist",
+    "solidity",
+    "nft-mint",
+    "gas-optimized"
+  ]
+}
